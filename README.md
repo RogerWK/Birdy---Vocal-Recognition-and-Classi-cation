@@ -1,4 +1,4 @@
-# Birdy---Vocal-Recognition-and-Classi-cation
+# Birdy---Vocal-Recognition-and-Classification
 
 Acoustic signal has been used as species traits to infer phylogenetic and evolutionary relationships.Bird sound is one of the complex acoustic signals that could contain much neurobiological information than human speech. Passive acoustic monitoring is one of the primary approaches that used in ecological research to discover bird habitats and populations. As a survey technique, this cost-effective approach is getting popular, especially, in the acoustic data collection field. By analyzing the neurobiological information, researchers can build corresponding strategies to protect endangered species. Effectively retrieving corresponding data from numerous sources is a challenge. Advancing in deep artificial neural networks (DNNs) has transformed the field of the machine learning area. More advanced DNN methods frequently outperform traditional signal processing techniques in acoustic event detection and classification. Transfer learning is the approach been used to re-purpose the pre-trained model and to overcome the problem of lack of data. 
 
